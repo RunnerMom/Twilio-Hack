@@ -1,0 +1,14 @@
+Django==1.7b1
+Flask==0.10.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+SocksiPy-branch==1.01
+Werkzeug==0.9.6
+httplib2==0.9
+itsdangerous==0.24
+pyflakes==0.8.1
+selenium==2.41.0
+six==1.7.3
+twilio==3.6.6
+unittest2py3k==0.5.1
+wsgiref==0.1.2
