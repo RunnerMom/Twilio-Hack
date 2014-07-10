@@ -1,3 +1,6 @@
+Twilio demonstration hack - June 2014
+=======================================
+
 # Welcome to the Python Guild!
 
 As members of the Python guild, you will be working through the challenges of TwilioQuest using the Python programming language.  This project is pre-configured to do some interesting Twilio stuff using Python and the [Flask](http://flask.pocoo.org/) web framework.
